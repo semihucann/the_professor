@@ -1,0 +1,4 @@
+gTTS
+pyglet
+PyPDF2
+pygame
